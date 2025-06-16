@@ -106,4 +106,4 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 ## 📺 Tutoriel Vidéo
 
-Ce projet accompagne le tutoriel vidéo disponible sur [YouTube](https://www.youtube.com/@vanderotis) qui explique en détail l'intégration de CinetPay avec Laravel.
+Ce projet accompagne le tutoriel vidéo disponible sur [YouTube](https://youtu.be/BLtV302xAE4) qui explique en détail l'intégration de CinetPay avec Laravel.
